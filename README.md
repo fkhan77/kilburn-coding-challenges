@@ -1,4 +1,8 @@
 kilburn-coding-challenges
-1. PangramChallenge
-2. ThatsAWrapChallenge
-4. ElevenChallenge
+
+1. Pangram
+2. ThatsAWrap
+3. Eleven
+4. SharingIsCaring
+5. EasyDoesIt (Not completed)
+6. ItLooksLikeYoureTryingToTrypeALetter
